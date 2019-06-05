@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[first report status]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56" started-at="2019-06-05T16:40:29Z" finished-at="2019-06-05T16:40:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56" started-at="2019-06-05T16:40:29Z" finished-at="2019-06-05T16:40:29Z">
+      <class name="com.gittest.samplepackage.SampleTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.gittest.samplepackage.SampleTest@6a41eaa2]" name="test" duration-ms="17" started-at="2019-06-05T16:40:29Z" finished-at="2019-06-05T16:40:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[first report status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.gittest.samplepackage.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
