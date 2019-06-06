@@ -12,5 +12,11 @@ public class SampleTest {
 		Reporter.log("first report status", true);
 		
 	}
+	
+	@Test
+	public void test2()
+	{
+		System.out.println("I am also getting triggered");
+	}
 
 }
